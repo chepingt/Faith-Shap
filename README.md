@@ -1,4 +1,4 @@
-# Faith-Shap: The Faithful Shapley Interaction Index - JMLR
+# Faith-Shap: The Faithful Shapley Interaction Index 
 This is the code for our JMLR paper "Faith-Shap: The Faithful Shapley Interaction Index". 
 
 ## Compatability
