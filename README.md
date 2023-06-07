@@ -23,10 +23,13 @@ This code is tested on Python3.7 with the following packages:
 If you find this code useful, please cite the following paper:
 
 ```
-@article{tsai2022faith,
-  title={Faith-shap: The faithful shapley shapley interaction index},
+@article{tsai2023faith,
+  title={Faith-shap: The faithful shapley interaction index},
   author={Tsai, Che-Ping and Yeh, Chih-Kuan and Ravikumar, Pradeep},
-  journal={arXiv preprint arXiv:2203.00870},
-  year={2022}
+  journal={Journal of Machine Learning Research},
+  volume={24},
+  number={94},
+  pages={1--42},
+  year={2023}
 }
 ```
